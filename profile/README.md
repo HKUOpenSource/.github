@@ -25,7 +25,7 @@ We build and share research code, simulation tools, datasets, and reproducible e
 
 ## What You Will Find Here
 
-- Open-source platforms for 6G and AI-native communications.
+- Open-source research platforms for 6G and AI-native communications.
 - Research code released with papers, tutorials, and technical reports.
 - Reproducible simulation frameworks for wireless communication and sensing.
 - Educational material for students and researchers entering 6G and AI-native communications.
