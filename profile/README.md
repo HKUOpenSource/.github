@@ -3,7 +3,7 @@
   <h1>STAR Open Source Lab@HKU</h1>
 
   <p>
-    <strong>Open research software for 6G, AI-native wireless networks, and integrated sensing.</strong>
+    <strong>Open research for 6G and AI-native wireless networks</strong>
   </p>
 
   <p>
