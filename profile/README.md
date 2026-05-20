@@ -7,12 +7,8 @@
   </p>
 
   <p>
-    <a href="https://github.com/HKUOpenSource">
-      <img alt="GitHub organization" src="https://img.shields.io/badge/GitHub-HKUOpenSource-181717?logo=github">
-    </a>
-    <a href="https://www.eee.hku.hk/~yuanwei/">
-      <img alt="HKU ECE" src="https://img.shields.io/badge/HKU-ECE-0055A4">
-    </a>
+    <img alt="GitHub organization" src="https://img.shields.io/badge/GitHub-HKUOpenSource-181717?logo=github">
+    <img alt="HKU ECE" src="https://img.shields.io/badge/HKU-ECE-0055A4">
     <img alt="Research focus" src="https://img.shields.io/badge/research-6G%20%7C%20AI%20%7C%20Wireless-2E7D32">
   </p>
 </div>
