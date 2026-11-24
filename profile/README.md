@@ -43,11 +43,11 @@ Good contributions include:
 - Principal Investigator: [Prof. Yuanwei Liu](https://www.eee.hku.hk/~yuanwei/)
 - Department: [Electrical and Computer Engineering, HKU](https://www.eee.hku.hk/)
 - Location: Hong Kong
-- Research portal: [6G@HKU](https://www.eee.hku.hk/~yuanwei/6G-HKU.html)
+- Research portal: [6G@HKU](https://ece.hku.hk/6ghku/)
 
 ## Contact
 
-For research collaboration, prospective student enquiries, or questions about upcoming open-source releases, please visit Prof. Liu's [HKU homepage](https://www.eee.hku.hk/~yuanwei/) for the latest contact information.
+For research collaboration, prospective student enquiries, or questions about upcoming open-source releases, please visit Prof. Liu's [HKU homepage](https://web.ece.hku.hk/~yuanwei/) for the latest contact information.
 
 ---
 
