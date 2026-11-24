@@ -40,7 +40,7 @@ Good contributions include:
 
 ## Research Group
 
-- Principal Investigator: [Prof. Yuanwei Liu](https://www.eee.hku.hk/~yuanwei/)
+- Principal Investigator: [Prof. Yuanwei Liu](https://web.ece.hku.hk/~yuanwei/)
 - Department: [Electrical and Computer Engineering, HKU](https://www.eee.hku.hk/)
 - Location: Hong Kong
 - Research portal: [6G@HKU](https://ece.hku.hk/6ghku/)
